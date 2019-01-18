@@ -1,6 +1,6 @@
 # codeigniter-login-rest-api-server-dan-client
  --------------------------------------------------------------------------------
--------------Source code codeigniter rest api login server dan client------------
+-------------Source code codeigniter login rest api server dan client------------
 ---------------------------------------------------------------------------------
 NOTE :
 - Source code ini dilarang untuk di perjual belikan dan hargai karya orang lain
